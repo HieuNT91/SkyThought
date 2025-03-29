@@ -1,0 +1,6 @@
+cot:0;Qwen/Qwen2.5-Coder-1.5B-Instruct;0;livecodebench_easy
+cot:0;Qwen/Qwen2.5-Coder-1.5B-Instruct;0;livecodebench_medium
+cot:0;Qwen/Qwen2.5-Coder-3B-Instruct;0;livecodebench_easy
+cot:0;Qwen/Qwen2.5-Coder-3B-Instruct;0;livecodebench_medium
+cot:0;Qwen/Qwen2.5-Coder-7B-Instruct;0;livecodebench_easy
+best_of_16:0.2;Qwen/Qwen2.5-Coder-1.5B-Instruct;0;livecodebench_easy
